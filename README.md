@@ -3,7 +3,7 @@ El bombeo solar es la mejor alternativa ante el uso de generadores eléctricos
 
 
 
-https://github.com/induxtrias/BOMBEO-SOLAR/blob/main/Designer.jpeg?raw=true
+![Descripción de la imagen](https://github.com/induxtrias/BOMBEO-SOLAR/blob/main/Designer.jpeg?raw=true)
 
 
 
